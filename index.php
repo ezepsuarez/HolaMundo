@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse; width: 100%; height: 75px;" border="1">
 <tbody>
 <tr>
-<td style="width: 100%;" bgcolor="&quot;#FA4422">Prueba openshift</td>
+<td style="width: 100%;" bgcolor="&quot;#FA4422">Prueba openshift - Configuracion Inicial</td>
 </tr>
 </tbody>
 </table>
